@@ -1,4 +1,8 @@
 # Startup-Data-Visualization
+
+Read more on my Medium blog: https://medium.com/@alidu143/indian-startup-ecosystem-a-data-visualization-approach-to-understanding-which-industry-is-more-703072cf0e31 
+
+
 Live Project 1 for the Data Analytics Program Career Acceleration Program
 
 Data Analysis Project -- Indian Start-up Funding Analysis
