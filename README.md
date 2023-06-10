@@ -11,59 +11,79 @@ India's startup ecosystem has been thriving in recent years, contributing to the
 - Provide valuable information for key stakeholders
 - Support informed business decisions
 
-DATA CLEANING
+## Data Description
 
-Exploratory Data Analysis: EDA
+| Column Name    | Description                                      |
+|----------------|--------------------------------------------------|
+| Company/Brand  | Name of the company/start-up                      |
+| Founded        | Year the start-up was founded                     |
+| Sector         | Sector of service provided by the company         |
+| What it does   | Description of the services provided by the company |
+| Founders       | Founders of the company                           |
+| Investor       | Investors who have invested in the company        |
+| Amount($)      | Amount of funding raised by the company in dollars |
+| Stage          | Round of funding reached by the company            |
 
-Univariate Analaysis 
 
-Bivariate Analysis 
+## Data Cleaning 
 
-Multivariate Analysis 
+- Inconsistent data for each year
+- Complex data cleaning process
+- Overcoming inconsistencies in the dataset
 
-Hypothesis development 
+## Exploratory Data Analysis: EDA
 
-Business Questions 
+### Univariate Analaysis 
 
-Major Conclusions 
+### Bivariate Analysis 
 
-Column names and description:
+### Multivariate Analysis 
 
-Company/Brand: Name of the company/start-up
+## Hypothesis development 
 
-Founded: Year start-up was founded
+✨ NULL: Technological industries do not have a higher success rate of being funded
 
-Sector: Sector of service
+✨ ALTERNATE: Technological industries have a higher success rate of being funded
 
-What it does: Description about Company
+## Business Questions 
 
-Founders: Founders of the Company
+## Key Findings :mag_right:
 
-Investor: Investors
+✨ The type of industry has an impact on the success of getting funded. 
 
-Amount($): Raised fund
+Fintech and edtech sectors are the most frequently funded startup solutions :chart_with_upwards_trend: :moneybag:
 
-Stage: Round of funding reached
+✨ Location can affect the success of receiving funding. 
 
-Scenario
-Your team is trying to venture into the Indian start-up ecosystem. As the data expert of the team you are to investigate the ecosystem and propose the best course of action.
+Bangalore leads in startup funding with approximately $26,210,250,000 total investment commitments :rocket: :money_with_wings:
 
-Instructions
-Your task is to develop a unique story from this dataset by stating and testing a hypothesis, asking questions, perform analysis and share insights with appropriate visualisations.
+✨ Start-ups receive more funding at the seed stage, indicating its significance in attracting investments :seedling: :moneybag:
 
-So as part of the project you are to:
+✨ Inflection Point Ventures emerges as the top investor, actively investing in numerous startups in India :money_with_wings: :chart_with_upwards_trend:
 
-Ask questions
 
-Develop hypothesis
+## Major Conclusions 
 
-Process the data
+## Key Insights :chart_with_upwards_trend:
 
-Analyse the data
+✨ India's startup ecosystem is positive and thriving with strong favor towards technological companies :rocket:
 
-Visualise the data
+✨ Equal opportunities exist for non-technological sectors as well :bulb:
 
-Upon completion compile these processes in a blog post and share your analysis on Medium, LinkedIn, Dev.to, personal blog or a suitable blogging website.
+✨ Fintech and edtech sectors are particularly active in the Indian startup ecosystem :moneybag: :mortar_board:
+
+✨ Mumbai is at the forefront of these developments in fintech and edtech sectors :cityscape:
+
+✨ Non-technical industries have a few large investments that skew the mean higher :money_with_wings:
+
+✨ Technical industries have a larger number of smaller investments, driving up the sum :chart_with_upwards_trend:
+
+
+
+The Indian startup ecosystem is a vibrant and influential force in the global market. This project provides valuable insights into funding patterns and industry preferences. By leveraging this information, stakeholders can make informed decisions and contribute to the growth and success of startups in India.
+
+Let's make the journey fun and exciting! :sparkles:
+
 
 
 
