@@ -1,5 +1,6 @@
 # Exploring the Indian Startup Ecosystem :india:
 
+![Alt text](images/Banner.jpg)
 
 ## Introduction
 India's startup ecosystem has been thriving in recent years, contributing to the country's economic growth. This project aims to understand and analyze the Indian startup ecosystem using Python and data gathered on startups that received funding from 2018 to 2021.
@@ -35,9 +36,14 @@ India's startup ecosystem has been thriving in recent years, contributing to the
 
 ### Univariate Analaysis 
 
-### Bivariate Analysis 
+![Alt text](images/univariate.png)
+
+![Alt text](images/univariate2.png)
+
 
 ### Multivariate Analysis 
+
+![Alt text](images/Multivariate.png)
 
 ## Hypothesis development 
 
@@ -45,21 +51,33 @@ India's startup ecosystem has been thriving in recent years, contributing to the
 
 ✨ ALTERNATE: Technological industries have a higher success rate of being funded
 
+![Alt text](images/hypothesis.png)
+
+![Alt text](images/hypothesis2.png)
+
 ## Business Questions 
 
 ## Key Findings :mag_right:
 
 ✨ The type of industry has an impact on the success of getting funded. 
 
+![Alt text](images/Qustion1.png)
+
 Fintech and edtech sectors are the most frequently funded startup solutions :chart_with_upwards_trend: :moneybag:
 
 ✨ Location can affect the success of receiving funding. 
+
+![Alt text](images/Qustion2.png)
 
 Bangalore leads in startup funding with approximately $26,210,250,000 total investment commitments :rocket: :money_with_wings:
 
 ✨ Start-ups receive more funding at the seed stage, indicating its significance in attracting investments :seedling: :moneybag:
 
+![Alt text](images/Qustion3.png)
+
 ✨ Inflection Point Ventures emerges as the top investor, actively investing in numerous startups in India :money_with_wings: :chart_with_upwards_trend:
+
+![Alt text](images/Qustion4.png)
 
 
 ## Major Conclusions 
@@ -85,6 +103,12 @@ The Indian startup ecosystem is a vibrant and influential force in the global ma
 Let's make the journey fun and exciting! :sparkles:
 
 
+## Author
 
+`Alidu Abubakari`
 
-Read more on my Medium blog: https://medium.com/@alidu143/indian-startup-ecosystem-a-data-visualization-approach-to-understanding-which-industry-is-more-703072cf0e31 
+`Data Analyst`
+
+`Azubi Africa`
+
+Read more on my Medium blog: [Medium Article](https://medium.com/@alidu143/indian-startup-ecosystem-a-data-visualization-approach-to-understanding-which-industry-is-more-703072cf0e31) 
